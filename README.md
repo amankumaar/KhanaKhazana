@@ -1,5 +1,5 @@
 # Khana Khazana
-> A Food Delivering App that suits your needs.
+> A Food Delivering Web App that suits your needs.
 # Usage
 ### Install Dependencies
 ```
